@@ -43,3 +43,13 @@ Building **Aruu Everlance**
 ---
 
 ⭐ Thank you for visiting this repository!
+
+
+## Featured Website Demo
+
+### BrightNest Cleaning Co. (Fictional Demo)
+- **Live demo:** https://brightnest-cleaning-demo-mu.vercel.app/
+- **Type:** Responsive small-business cleaning website concept
+- **Included:** Home, deep-cleaning and office-cleaning service sections, responsive navigation, quote-request demo form
+- **Note:** BrightNest is a fictional portfolio concept. The quote form is front-end only and does not transmit or store submissions. It is not a paid client project.
+
